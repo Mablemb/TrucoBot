@@ -74,14 +74,6 @@ No Discord, em um canal de texto onde o bot está presente, utilize os comandos:
 - `!f` — Corre da rodada.
 - `!pontos` — Mostra a pontuação dos times.
 
-## Testes
-
-O projeto ainda não possui testes automatizados. Para testar, execute o bot e interaja via Discord.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
-
 ## Licença
 
 Este projeto está sob a licença MIT.
